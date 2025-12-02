@@ -1,4 +1,4 @@
-# TUGAS-9 DAN 10-PWEB-A
+# TUGAS-9-PWEB-A
 
 Pada tugas ini, kita diminta untuk membuat form pendaftaran siswa baru dengan mengimplementasikan backend menggunakan PHP. 
 
